@@ -46,3 +46,22 @@
 
 # 
 * 幻灯片 carousel     
+  * 基础 data-ride="carousel"
+  * 左滑动 slide
+  * 上一页，下一页 
+    * a href="#slideshow" data-slide="prev" class="left carousel-control"
+    * a href="#slideshow" data-slide="next" class="right carousel-control"
+  * 圆点
+    * li data-target="#slideshow" data-slide-to="0"
+  
+# 
+* 按钮组 button
+* type button
+* class.btn
+  * .btn-default 默认
+  * .btn-success 确定
+  * .btn-primary primary
+  * .btn-danger 危险
+  * .btn-info   信息
+  * .btn-warning   警示
+  * .btn-link   链接  
